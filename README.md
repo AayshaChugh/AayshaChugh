@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img  align='right' src="https://sdk.bitmoji.com/render/panel/321517cd-ff68-41a7-b0d1-e765680568a7-4fd9fcbb-2d3c-432d-9ca3-49e459afe8ac-v1.png?transparent=1&palette=1" height="350">
+
 #### Skills 🤖
 <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>

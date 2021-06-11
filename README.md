@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m a Computer Science student, who works with js, react and node. 
-- 🌱 My tech stack is Python/Flask + JS + C++.
+- 🔭 I’m a Computer Science student, who works with js, C++ and python. 
+<!-- - 🌱 My tech stack is Python/Flask + JS + C++. -->
 - 👯 I’m learning linux and MERN stack.
 - 😄 It's good to see you here on my profile.
 
